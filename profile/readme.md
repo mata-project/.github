@@ -1,31 +1,30 @@
 # MATA Project
 
-**A Local Market Application** *(Currently In Progress)*
+## Overview
+MATA is an open-source market list app project to help users efficiently manage and organize their shopping lists. Built with modern web technologies, this project showcases a modular architecture optimized for efficiency and performance.
 
-The MATA project aims to provide a comprehensive platform for local market list, integrating powerful backend and frontend technologies with a robust database.
+The application is currently deployed for testing purposes at (https://mymarketlist.click/). (Please note that signup functionality is not available, please contact for an account).
 
----
+## Features
+- **Scalable Backend**: Developed using **Node.js**, **NestJS**, **GraphQL** and **TypeScript**.
+- **Cloud Deployment**: Hosted on **AWS EC2**.
+- **Modern Frontend**: Powered by **Next.js** and **React** for a seamless user experience.
+- **Database Management**: Uses **PostgreSQL** for robust data handling.
 
-## Project Repositories
+## Tech Stack
+- **Backend**: Node.js, NestJS, TypeScript
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Database**: PostgreSQL
+- **Cloud & DevOps**: AWS EC2 and AWS RDS
 
-### Backend
-- **Repository:** [MATA Gen API](https://github.com/mata-project/mata-gen-api-nest)  
-- **Stack:** Node.js / NestJS / GraphQL / TypeScript  
-- **Description:** The API layer of the application, designed to handle data processing, business logic and GraphQL-based querying.
+## Installation && Setup
 
----
+Installation and setup for each repository are documented separately. Please refer to the respective repository's README for detailed instructions on setting up and running the components.
 
-### Frontend (Web App)
-- **Repository:** [MATA Web](https://github.com/mata-project/mata-web-next)  
-- **Stack:** Next.js / TypeScript  
-- **Description:** The user-facing web application, offering a responsive and interactive interface for local market users.
+## License
+This project is licensed under the **MIT License**.
 
----
+## Contact
+For any questions or inquiries, reach out via caglarcercinli@outlook.com.
 
-### Database
-- **Current Status:** To be implemented.  
-- **Plan:** PostgreSQL integration with support for Docker Compose to streamline local development and testing.
-
----
-
-Stay tuned for updates as we continue building this platform!
+![Screenshot 2025-02-26 at 14 14 45](https://github.com/user-attachments/assets/d1c4275a-78d9-4577-8483-cd226b3982db)
